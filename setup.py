@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 
-from django_profiler.version import __version__
+from django_profiler import __version__
 from setuptools import setup, find_packages
 
 setup(
