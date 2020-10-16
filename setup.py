@@ -5,7 +5,7 @@ from django_profiler import __version__
 from setuptools import setup, find_packages
 
 setup(
-    name='django-profiler',
+    name='sp-django-profiler',
     version=__version__,
     description='Tools for profiling of code and Django queries',
     long_description=open('README.md').read(),
