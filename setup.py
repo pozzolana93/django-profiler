@@ -21,7 +21,7 @@ setup(
         'Development Status :: 4 - Beta',
         'Framework :: Django',
         'Intended Audience :: Developers',
-        'Licence :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
