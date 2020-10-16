@@ -9,10 +9,10 @@ setup(
     version=__version__,
     description='Tools for profiling of code and Django queries',
     long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
 
     author='Simone Pozzoli',
     author_email='simonepozzoli1@gmail.com',
-    license='UNLICENSED',
     url='https://github.com/pozzolana93/django-profiler',
 
     zip_safe=True,
@@ -21,6 +21,7 @@ setup(
         'Development Status :: 4 - Beta',
         'Framework :: Django',
         'Intended Audience :: Developers',
+        'Licence :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
