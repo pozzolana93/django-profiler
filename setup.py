@@ -18,7 +18,8 @@ setup(
     zip_safe=True,
 
     classifiers=[
-        'Development Status :: 0 - Beta',
+        'Development Status :: 4 - Beta',
+        'Framework :: Django',
         'Intended Audience :: Developers',
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 2.6',
@@ -31,6 +32,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
+        'Topic :: Software Development :: Debuggers',
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],
 
